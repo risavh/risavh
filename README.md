@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Rishabh Gupta
-- ❤️ solving ML problems.
+👋 Hi, I’m Rishabh Gupta
+
+❤️ solving ML problems.
 
 <!---
 riszwinger/riszwinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
