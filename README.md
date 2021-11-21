@@ -6,7 +6,7 @@
 - 📈 Led and implemented multiple analytics projects for over 10 years.
 - ❤️ Love to solve challenging problems involving Machine Learning, Deep Learning & NLP.
 - 💬 Ask me about **Machine Learning** , **Python** & **NLP**.
-- ⚡ Fun fact: Foosball Winner. 🥇
+- ⚡ Fun fact: Foosball champion. 🥇
 
 ## let's connect
 
