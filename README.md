@@ -1,4 +1,4 @@
-👋 Hey, I’m Rishabh.
+👋**Hey, I’m Rishabh.**
 
 ## About Me
 
